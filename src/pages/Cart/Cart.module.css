@@ -1,0 +1,72 @@
+.headling {
+  margin-bottom: 40px;
+}
+
+.summary {
+  max-width: 512px;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+  padding: 17px 0px;
+}
+
+.row span {
+  color: #9796a1;
+  font-size: 14px;
+  font-style: normal;
+  line-height: normal;
+}
+
+.line {
+  margin: 0;
+  border: 1px solid #f1f2f3;
+}
+
+.text {
+  color: var(--text-color);
+  font-size: 16px;
+  font-style: normal;
+  line-height: normal;
+}
+
+.price {
+  color: var(--text-color);
+  font-size: 19px;
+  font-style: normal;
+  line-height: normal;
+}
+
+.row .total-count {
+  color: #bebebe;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+
+.checkout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 78.4vh;
+  color: var(--text-color);
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 120%;
+}
+
+.message {
+  text-align: center;
+  max-width: 400px;
+}

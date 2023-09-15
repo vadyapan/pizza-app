@@ -1,0 +1,16 @@
+.head {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 83vh;
+  color: var(--text-color);
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 120%;
+}
