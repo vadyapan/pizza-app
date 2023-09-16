@@ -1,6 +1,6 @@
 # Pizza App
 
-### SPA приложение для заказа пиццы
+### SPA для заказа пиццы
 
 **Используемые технологии:**
 
@@ -54,7 +54,8 @@
 Демо: <a href="https://devpizza.vercel.app/" target="_blank">https://devpizza.vercel.app/</a>
 
 Данные для входа:
-Логин: a@ya.ru
-Пароль: 123
+
+- Логин: a@ya.ru
+- Пароль: 123
 
 ![ScreenShot](https://github.com/vadyapan/pizza-app/blob/main/screenshot/screen.png)
