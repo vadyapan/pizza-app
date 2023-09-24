@@ -2,6 +2,13 @@
 
 ### SPA для заказа пиццы
 
+Демо: <a href="https://devpizza.vercel.app/" target="_blank">https://devpizza.vercel.app/</a>
+
+Данные для входа:
+
+- Логин: a@ya.ru
+- Пароль: 123
+
 **Используемые технологии:**
 
 <table width='100%'>
@@ -50,12 +57,5 @@
     </td>
   </tr>
 </table>
-
-Демо: <a href="https://devpizza.vercel.app/" target="_blank">https://devpizza.vercel.app/</a>
-
-Данные для входа:
-
-- Логин: a@ya.ru
-- Пароль: 123
 
 ![ScreenShot](https://github.com/vadyapan/pizza-app/blob/main/screenshot/screen.png)
